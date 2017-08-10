@@ -86,8 +86,8 @@
 			isa = PBXGroup;
 			children = (
 				0A5406BB1F3A51BF006E884F /* WelcomeVC.swift */,
-				0ACC3DFA1F3C76600008E3C5 /* SkillVC.swift */,
 				0ACC3DFC1F3C76D00008E3C5 /* LeagueVC.swift */,
+				0ACC3DFA1F3C76600008E3C5 /* SkillVC.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
