@@ -90,10 +90,6 @@
                             <constraint firstItem="Dws-qR-hDR" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="ztg-IY-rc1"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="bgImg" destination="7uN-cs-pCq" id="pnt-0H-Y2T"/>
-                        <outlet property="swoosh" destination="utp-dg-SOY" id="95b-nC-eSN"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
