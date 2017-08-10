@@ -16,10 +16,10 @@
         </array>
     </customFonts>
     <scenes>
-        <!--View Controller-->
+        <!--WelcomeVC-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="app_swoosh" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="WelcomeVC" customModule="app_swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -99,10 +99,10 @@
             </objects>
             <point key="canvasLocation" x="17" y="135"/>
         </scene>
-        <!--View Controller-->
+        <!--LeagueVC-->
         <scene sceneID="8PM-5O-N2C">
             <objects>
-                <viewController id="W7v-R1-TFH" sceneMemberID="viewController">
+                <viewController id="W7v-R1-TFH" customClass="LeagueVC" customModule="app_swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="oPj-ea-2Ye"/>
                         <viewControllerLayoutGuide type="bottom" id="dQg-S3-6cv"/>
@@ -214,10 +214,10 @@
             </objects>
             <point key="canvasLocation" x="948" y="136.28185907046478"/>
         </scene>
-        <!--View Controller-->
+        <!--SkillVC-->
         <scene sceneID="RZz-0Q-BkX">
             <objects>
-                <viewController id="a0I-V0-2UV" sceneMemberID="viewController">
+                <viewController id="a0I-V0-2UV" customClass="SkillVC" customModule="app_swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="XZY-jZ-5oq"/>
                         <viewControllerLayoutGuide type="bottom" id="mH9-Se-WGG"/>
